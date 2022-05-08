@@ -1,0 +1,4 @@
+bs4
+requests
+fastapi==0.65.2
+uvicorn==0.12.3
